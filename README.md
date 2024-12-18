@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Miguelangel 
 
-![GitHub Followers](https://img.shields.io/github/followers/tu_usuario?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/tu_usuario?style=social)
+<!--![GitHub Followers](https://img.shields.io/github/followers/tu_usuario?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/tu_usuario?style=social) -->
 
 ---
 
