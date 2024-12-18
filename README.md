@@ -13,7 +13,6 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos desafiantes que 
 
 ### 🛠️ Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Odoo](https://img.shields.io/badge/-Odoo-87329D?logo=odoo&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
@@ -21,23 +20,24 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos desafiantes que 
 
 ---
 
-### 📈 Mis estadísticas
+<!--### 📈 Mis estadísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
+-->
 
 ---
 
 ### 📫 Cómo contactarme
-- 📧 Correo: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
+- 📧 Correo: [lacruzmiguelangel@gmail.com](mailto:lacruzmiguelangel@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/tu_usuario](https://linkedin.com/in/tu_usuario)  
 - 🌐 Portafolio: [https://tu-portfolio.com](https://tu-portfolio.com)
 
 ---
 
 ### 🏆 Logros destacados
-- 🚀 **Proyecto 1:** Desarrollé una aplicación para [descripción breve].  
+- 🚀 **Proyecto 1:** Desarrollé una aplicación para un centro de salud en la que se requería un sistema de gestión para sus pacientes e historias médicas.  
 - 🏅 **Proyecto 2:** Implementé soluciones personalizadas en Odoo para [descripción breve].  
 
 ---
